@@ -13,7 +13,11 @@ h1 {
 }
 .keskel2{
    text-align: center;
+   
 }
 table, th, td {
    border:1px solid black;
+}
+li{
+   font-size: x-large;
 }
